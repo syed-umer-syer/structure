@@ -1,0 +1,52 @@
+{
+    "200": {
+        "msg": {
+            "EN": "error occured while creating category"
+        }
+    },
+    "201": {
+        "msg": {
+            "EN": "error occured while updating category"
+        }
+    },
+    "202": {
+        "msg": {
+            "EN": "error occured while deleting category"
+        }
+    },
+    "203": {
+        "msg": {
+            "EN": "error occured while FETCHING category"
+        }
+    },
+    "204": {
+        "msg": {
+            "EN": "error occured while fetching category listing"
+        }
+    },
+    "205": {
+        "msg": {
+            "EN": "error occured while car was being created"
+        }
+    },
+    "206": {
+        "msg": {
+            "EN": "error occured while car was being updated"
+        }
+    },
+    "207": {
+        "msg": {
+            "EN": "error occured while car was being deleted"
+        }
+    },
+    "208": {
+        "msg": {
+            "EN": "error occured while  fetching car"
+        }
+    },
+    "209": {
+        "msg": {
+            "EN": "error occured while fetching car listing"
+        }
+    }
+}

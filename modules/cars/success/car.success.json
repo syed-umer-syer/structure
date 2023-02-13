@@ -1,0 +1,52 @@
+{
+    "200": {
+        "msg": {
+            "EN": "New category created"
+        }
+    },
+    "201": {
+        "msg": {
+            "EN": "category updated"
+        }
+    },
+    "202": {
+        "msg": {
+            "EN": "category deleted"
+        }
+    },
+    "203": {
+        "msg": {
+            "EN": "category fetched"
+        }
+    },
+    "204": {
+        "msg": {
+            "EN": "category listing fetched"
+        }
+    },
+    "205": {
+        "msg": {
+            "EN": "New car created"
+        }
+    },
+    "206": {
+        "msg": {
+            "EN": "car updated"
+        }
+    },
+    "207": {
+        "msg": {
+            "EN": "car deleted"
+        }
+    },
+    "208": {
+        "msg": {
+            "EN": "car fetched"
+        }
+    },
+    "209": {
+        "msg": {
+            "EN": "car listing fetched"
+        }
+    }
+}

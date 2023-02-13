@@ -1,0 +1,20 @@
+{
+    "100": {
+        "msg": {
+            "EN":"please provide language",
+            "AR":"please provide language in"
+        }
+    },
+    "101": {
+        "msg": {
+            "EN":"please provide language 101",
+            "AR":"please provide language in 101"
+        }
+    },
+    "102": {
+        "msg": {
+            "EN":"102 error occured",
+            "AR":"please provide language in 101"
+        }
+    }
+}
